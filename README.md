@@ -1,2 +1,2 @@
 # Coding_Challenge
-Coding Challnge der Huk Coburg
+Coding Challenge der Huk Coburg
